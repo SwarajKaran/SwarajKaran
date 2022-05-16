@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/swarajkaran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajkaran's linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/SwarajKaran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SwarajKaran's Twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dangling.pointer/">
-  <img align="left" alt="Swaraj's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Swaraj's Instagram" height = "30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
 </p>
