@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <h3 align="center">Software Engineer | Web Developmemt Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/swarajkaran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajkaran" height="30" width="40" /></a>
-<a href="https://twitter.comm/SwarajKaran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SwarajKaran" height="30" width="40" /></a>
+<a href="https://twitter.com/SwarajKaran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SwarajKaran" height="30" width="40" /></a>
 </p>
 </p>
