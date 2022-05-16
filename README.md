@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajKaran&count_private=true&theme=radical" alt="SwarajKaran" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajKaran&count_private=true&theme=radical" alt="SwarajKaran" />
 
-
+<br>
 Credit: [SwarajKaran](https://github.com/SwarajKaran)
 <p>
 Last Edited on: 17/05/2022</p>
