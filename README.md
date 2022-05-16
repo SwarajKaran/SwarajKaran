@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 </p>
+<br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
@@ -56,4 +57,5 @@ Here are some ideas to get you started:
 
 ----
 Credit: [SwarajKaran](https://github.com/SwarajKaran)
-Last Edited on: 17/05/2022
+<p>
+Last Edited on: 17/05/2022</p>
