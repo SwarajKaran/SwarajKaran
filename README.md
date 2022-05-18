@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajKaran&count_private=true&theme=radical" alt="SwarajKaran" />
 
 <br>
-Credit: [SwarajKaran](https://github.com/SwarajKaran)
+Credit: <a href = 'https://github.com/SwarajKaran'>[SwarajKaran]</a> 
 <p>
-Last Edited on: 17/05/2022</p>
+Last Edited on: 19/05/2022</p>
