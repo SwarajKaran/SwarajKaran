@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://github.com/SwarajKaran/SwarajKaran/blob/main/Hi.gif" width="30px">, I'm Swaraj Karan</h1>
-<h3 align="center">Software Engineer | Web Developmemt Enthusiast</h3>
+<h3 align="center">Software Engineer | Web Development Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/swarajkaran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajkaran's linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/SwarajKaran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SwarajKaran's Twitter" height="30" width="40" /></a>
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 <br>
 Credit: <a href = 'https://github.com/SwarajKaran'>[SwarajKaran]</a> 
 <p>
-Last Edited on: 19/05/2022</p>
+Last Edited on: 28/05/2022</p>
