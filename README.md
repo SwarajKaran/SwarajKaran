@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 **About Me!**
 
-- 👨🏽‍💻 An IT professional with 4 years of experience
+- 👨🏽‍💻 An IT professional with 4+ years of experience
 - 🌱 I’m currently exploring ReactJS
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
