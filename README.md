@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/SwarajKaran/SwarajKaran/blob/main/header%20.png" height="200"/>
-</p>
+</p> -->
 <hr>
 <h1 align="center">Hi <img src="https://github.com/SwarajKaran/SwarajKaran/blob/main/Hi.gif" width='5%' height = '5%'>, I'm Swaraj Karan</h1>
 <h3 align="center">Software Engineer | Web Development Enthusiast</h3>
